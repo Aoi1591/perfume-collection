@@ -1,0 +1,50 @@
+header{
+    text-align: center;
+}
+header h1{
+    font-size: 80px;
+    font-family: "Times New Roman";
+}
+.group1{
+    text-align: center;
+}
+.rinnku1{
+    text-align: center;
+}
+li{
+    display: inline-block;
+    list-style: none;
+    margin-left: 40px;
+}
+.no1 img{
+    margin-top: 40px;
+    width: 80%;
+}
+.no2 h2{
+    font-size: 30px;
+    font-family: "Yu Mincho";
+}
+.no3{
+    font-size: 20px;
+    font-family: "Yu Mincho";
+}
+.newimg{
+    text-align: center;
+}
+.new h2{
+    font-size: 50px;
+    font-family: "Times New Roman";
+}
+.new img{
+    width: 80%;
+}
+.poppularityimg{
+    text-align: center;
+}
+.poppularity h2{
+    font-size: 50px;
+    font-family: "Times New Roman";
+}
+.poppularity img{
+    width: 80%;
+}
